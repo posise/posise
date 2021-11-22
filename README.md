@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @posise
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning TS
